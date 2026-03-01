@@ -1,0 +1,4 @@
+# Ignore all mobile build outputs (APK, AAB, IPA, xcarchive)
+# These are local-only and should NOT be pushed to the releases repo
+*
+!.gitignore

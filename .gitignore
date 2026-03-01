@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Mobile build outputs — local only, not pushed
+mobile/*
+!mobile/.gitignore

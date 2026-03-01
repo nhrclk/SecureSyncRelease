@@ -1,0 +1,25 @@
+{
+  "desktop": {
+    "version": "1.0.0",
+    "versionCode": 1,
+    "minClientVersion": "1.0.0",
+    "downloads": {
+      "macos": "https://github.com/nhrclk/SecureSync/releases/download/v1.0.0/SecureSync-1.0.0.dmg",
+      "windows": "https://github.com/nhrclk/SecureSync/releases/download/v1.0.0/SecureSync-1.0.0.msi",
+      "linux": "https://github.com/nhrclk/SecureSync/releases/download/v1.0.0/SecureSync-1.0.0.deb"
+    },
+    "releaseNotes": "İlk sürüm"
+  },
+  "android": {
+    "version": "1.0.0",
+    "versionCode": 1,
+    "minDesktopVersion": "1.0.1",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.inceptionapps.localcloud.android"
+  },
+  "ios": {
+    "version": "1.0.0",
+    "versionCode": 1,
+    "minDesktopVersion": "1.0.1",
+    "storeUrl": "https://apps.apple.com/app/localcloud/id0000000000"
+  }
+}
