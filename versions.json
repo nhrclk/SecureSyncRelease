@@ -6,7 +6,7 @@
       "versionCode": 1,
       "force": true,
       "downloads": {
-        "macos": "https://github.com/nhrclk/SecureSyncRelease/releases/LocalCloud-1.0.0.dmg",
+        "macos": "https://github.com/nhrclk/SecureSyncRelease/raw/main/releases/LocalCloud-1.0.0.dmg",
         "windows": "https://github.com/nhrclk/SecureSyncRelease/releases/download/v1.0.0/SecureSync-1.0.0.msi",
         "linux": "https://github.com/nhrclk/SecureSyncRelease/releases/download/v1.0.0/SecureSync-1.0.0.deb"
       },
@@ -18,7 +18,7 @@
       "versionCode": 2,
       "force": false,
       "downloads": {
-        "macos": "https://github.com/nhrclk/SecureSyncRelease/releases/LocalCloud-1.0.1.dmg",
+        "macos": "https://github.com/nhrclk/SecureSyncRelease/raw/main/releases/LocalCloud-1.0.0.dmg",
         "windows": "https://github.com/nhrclk/SecureSyncRelease/releases/download/v1.0.0/SecureSync-1.0.0.msi",
         "linux": "https://github.com/nhrclk/SecureSyncRelease/releases/download/v1.0.0/SecureSync-1.0.0.deb"
       },
