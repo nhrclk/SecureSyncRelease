@@ -17,7 +17,7 @@
       "version": "1.0.0",
       "versionCode": 1,
       "force": false,
-      "minDesktopVersion": "1.0.0",
+      "minDesktopVersion": "1.0.1",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.inceptionapps.localcloud.android",
       "releaseNotes": ""
     },
@@ -26,7 +26,7 @@
       "version": "1.0.0",
       "versionCode": 1,
       "force": false,
-      "minDesktopVersion": "1.0.0",
+      "minDesktopVersion": "1.0.1",
       "storeUrl": "https://apps.apple.com/app/localcloud/id0000000000",
       "releaseNotes": ""
     }
