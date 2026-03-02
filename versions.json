@@ -14,7 +14,7 @@
     },
     {
       "platform": "android",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "versionCode": 1,
       "force": false,
       "minDesktopVersion": "1.0.1",
@@ -23,7 +23,7 @@
     },
     {
       "platform": "ios",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "versionCode": 1,
       "force": false,
       "minDesktopVersion": "1.0.1",
